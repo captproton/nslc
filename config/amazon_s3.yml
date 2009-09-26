@@ -1,17 +1,14 @@
 development:
-  bucket_name: appname_development
-  access_key_id: 
-  secret_access_key: 
-  distribution_domain: XXXX.cloudfront.net
-
+  access_key_id: 0XVAQR64TGCGWZ4W37R2
+  secret_access_key: 2mkUk7BxE4fVu7J4zCmVGnhIL3kXQGn8GaEpl5QR
+  bucket_name: fogboundpictures
+  
 test:
-  bucket_name: appname_test
-  access_key_id: 
-  secret_access_key: 
-  distribution_domain: XXXX.cloudfront.net
+  access_key_id: 0XVAQR64TGCGWZ4W37R2
+  secret_access_key: 2mkUk7BxE4fVu7J4zCmVGnhIL3kXQGn8GaEpl5QR
+  bucket_name: fogboundpictures
 
 production:
-  bucket_name: appname
-  access_key_id: 
-  secret_access_key: 
-  distribution_domain: XXXX.cloudfront.net
+  access_key_id: 0XVAQR64TGCGWZ4W37R2
+  secret_access_key: 2mkUk7BxE4fVu7J4zCmVGnhIL3kXQGn8GaEpl5QR
+  bucket_name: fogboundpictures
